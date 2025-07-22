@@ -32,3 +32,5 @@ for index, result in enumerate(results, 1):
     print(f'Вывод: {index}: {result.text}')
 
 driver.quit()
+
+#Selenium
